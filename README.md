@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @schicke9
-- 👀 I’m interested in ...
+- 👀 I’m interested in cooking, working out, good films 
 - 🌱 I’m currently learning Angular and Ionic 
 - 💞️ I’m looking to collaborate on Angular and Ionic
 - 📫 How to reach me ...
